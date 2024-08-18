@@ -1,0 +1,147 @@
+{
+  "numberOfMonths": 12,
+  "totalSales": {
+    "initialValue": 100000.0,
+    "finalProjectedValue": 163999.7,
+    "growthRate": {
+      "minimum": {
+        "months": ["Aug 2024"],
+        "rate": 4.2
+      },
+      "maximum": {
+        "months": ["Jul 2025"],
+        "rate": 4.217
+      },
+      "average": 4.209,
+      "total": 64.0
+    },
+    "breakdown": {
+      "productSales": {
+        "initialValue": 80000.0,
+        "finalProjectedValue": 128082.58,
+        "growthRate": {
+          "minimum": {
+            "months": [
+              "Aug 2024", "Sep 2024", "Oct 2024", "Nov 2024", "Dec 2024", "Jan 2025", "Feb 2025", "Mar 2025", "Apr 2025", "May 2025", "Jun 2025", "Jul 2025"
+            ],
+            "rate": 4.0
+          },
+          "maximum": {
+            "months": [
+              "Aug 2024", "Sep 2024", "Oct 2024", "Nov 2024", "Dec 2024", "Jan 2025", "Feb 2025", "Mar 2025", "Apr 2025", "May 2025", "Jun 2025", "Jul 2025"
+            ],
+            "rate": 4.0
+          },
+          "average": 4.0,
+          "total": 60.103
+        }
+      },
+      "serviceSales": {
+        "initialValue": 20000.0,
+        "finalProjectedValue": 35917.13,
+        "growthRate": {
+          "minimum": {
+            "months": [
+              "Aug 2024", "Sep 2024", "Oct 2024", "Nov 2024", "Dec 2024", "Jan 2025", "Feb 2025", "Mar 2025", "Apr 2025", "May 2025", "Jun 2025", "Jul 2025"
+            ],
+            "rate": 5.0
+          },
+          "maximum": {
+            "months": [
+              "Aug 2024", "Sep 2024", "Oct 2024", "Nov 2024", "Dec 2024", "Jan 2025", "Feb 2025", "Mar 2025", "Apr 2025", "May 2025", "Jun 2025", "Jul 2025"
+            ],
+            "rate": 5.0
+          },
+          "average": 5.0,
+          "total": 79.586
+        }
+      }
+    }
+  },
+  "totalOperatingExpenses": {
+    "initialValue": 85000.0,
+    "finalProjectedValue": 138861.87,
+    "growthRate": {
+      "minimum": {
+        "months": ["Mar 2025"],
+        "rate": 3.702
+      },
+      "maximum": {
+        "months": ["Feb 2025"],
+        "rate": 8.557
+      },
+      "average": 4.183,
+      "total": 63.367
+    },
+    "breakdown": {
+      "costOfGoodsSold": {
+        "initialValue": 60000.0,
+        "finalProjectedValue": 96061.93,
+        "growthRate": {
+          "minimum": {
+            "months": [
+              "Aug 2024", "Sep 2024", "Oct 2024", "Nov 2024", "Dec 2024", "Jan 2025", "Feb 2025", "Mar 2025", "Apr 2025", "May 2025", "Jun 2025", "Jul 2025"
+            ],
+            "rate": 4.0
+          },
+          "maximum": {
+            "months": [
+              "Aug 2024", "Sep 2024", "Oct 2024", "Nov 2024", "Dec 2024", "Jan 2025", "Feb 2025", "Mar 2025", "Apr 2025", "May 2025", "Jun 2025", "Jul 2025"
+            ],
+            "rate": 4.0
+          },
+          "average": 4.0,
+          "total": 60.103
+        }
+      },
+      "marketing": {
+        "initialValue": 5000.0,
+        "finalProjectedValue": 10000.0,
+        "growthRate": {
+          "minimum": {
+            "months": ["Mar 2025"],
+            "rate": 3.702
+          },
+          "maximum": {
+            "months": ["Feb 2025"],
+            "rate": 8.557
+          },
+          "average": 8.333,
+          "total": 100.0
+        }
+      },
+      "staffSalaries": {
+        "initialValue": 20000.0,
+        "finalProjectedValue": 32799.94,
+        "growthRate": {
+          "minimum": {
+            "months": ["Aug 2024"],
+            "rate": 4.2
+          },
+          "maximum": {
+            "months": ["Jul 2025"],
+            "rate": 4.217
+          },
+          "average": 4.209,
+          "total": 64.0
+        }
+      }
+    }
+  },
+  "netIncome": {
+    "initialValue": 15000.0,
+    "finalProjectedValue": 25137.79,
+    "growthRate": {
+      "minimum": {
+        "months": ["Feb 2025"],
+        "rate": -17.33
+      },
+      "maximum": {
+        "months": ["Mar 2025"],
+        "rate": 7.523
+      },
+      "average": 4.639,
+      "total": 67.585
+    }
+  }
+}

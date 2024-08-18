@@ -1,4 +1,4 @@
-package JavaClasses;
+package models;
 
 /**
  * Subsections in Total Sales

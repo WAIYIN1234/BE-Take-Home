@@ -1,4 +1,6 @@
 # Algorithm Approach
+
+---
 ## 1. Identify Key Sections
 There are 3 key sections identified in the Financial Projections Example. These sections refer to important aspects to consider in business decisions and we will extract the values as the basis for assumptions.
 1. Total Sales
@@ -78,9 +80,9 @@ After collection all the required numbers, we can summarise and export them to r
 
 `Total Sales grow by 64% in 12 months, 4.209% in average. Greatest at 4.217% in Jul 2025, Least at 4.2% in Aug 2024`
 
-`Total Operating Expenses grow by 63.367% in 12 months, 4.183% permonth. Greatest at 8.557% in Feb 2025, Least at 3.702% in Mar 2024`
+`Total Operating Expenses grow by 63.367% in 12 months, 4.183% in average. Greatest at 8.557% in Feb 2025, Least at 3.702% in Mar 2024`
 
-`Net Income grow by 67.585% in 12 months, 4.639% permonth. Greatest at 7.523% in Mar 2025, Least at -17.33% in Feb 2025`
+`Net Income grow by 67.585% in 12 months, 4.639% in average. Greatest at 7.523% in Mar 2025, Least at -17.33% in Feb 2025`
 
 #### Part of details are as below:
 
@@ -141,7 +143,7 @@ After collection all the required numbers, we can summarise and export them to r
                 "total": 67.585
             }
         }
-    },
+    }
 
 # Note
 
